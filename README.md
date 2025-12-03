@@ -7,3 +7,5 @@ Normal Strictness Loot, All currency.
 Hide sections for increased strickness 
 
 link to follow filters in-game https://www.pathofexile.com/account/view-profile/Awsome8-7944/item-filters
+
+Credit to Neversink for his unique and div card sections.
